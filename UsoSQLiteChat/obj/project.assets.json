@@ -1790,11 +1790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\MTW_Projs\\WindowsPhone\\UsoSQLiteChat\\UsoSQLiteChat.csproj",
+      "projectUniqueName": "C:\\Proyectos\\MTW_Projs\\WindowsPhone\\chat\\UsoSQLiteChat\\UsoSQLiteChat.csproj",
       "projectName": "UsoSQLiteChat",
-      "projectPath": "C:\\Proyectos\\MTW_Projs\\WindowsPhone\\UsoSQLiteChat\\UsoSQLiteChat.csproj",
+      "projectPath": "C:\\Proyectos\\MTW_Projs\\WindowsPhone\\chat\\UsoSQLiteChat\\UsoSQLiteChat.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\MTW_Projs\\WindowsPhone\\UsoSQLiteChat\\obj\\",
+      "outputPath": "C:\\Proyectos\\MTW_Projs\\WindowsPhone\\chat\\UsoSQLiteChat\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

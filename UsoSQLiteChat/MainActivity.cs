@@ -35,62 +35,13 @@ namespace UsoSQLiteChat
             {
                 connection.DropTable<Mensaje>();
                 connection.CreateTable<Mensaje>();
-
-                if (connection.Table<Mensaje>().Count() == 0)
-                {
-                    List<Mensaje> mensajes = new List<Mensaje> {
-                        new Mensaje {
-                            usuario = "Luis", mensaje="hola 1", recibido=true, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Pedro", mensaje="hola 1", recibido=false, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Luis", mensaje="hola 2", recibido=true, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Pedro", mensaje="hola 2", recibido=false, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Luis", mensaje="hola 3", recibido=true, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Luis", mensaje="hola 3.1", recibido=true, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Pedro", mensaje="hola 3", recibido=false, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Luis", mensaje="hola 4", recibido=true, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Pedro", mensaje="hola 4", recibido=false, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Luis", mensaje="hola 5", recibido=true, fechaEnvio = DateTime.Now
-                        },
-                        new Mensaje {
-                            usuario = "Pedro", mensaje="hola 5", recibido=false, fechaEnvio = DateTime.Now
-                        },
-                    };
-                    connection.InsertAll(mensajes);
-                }
                 lstMensajes = connection.Table<Mensaje>().ToList();
                 connection.Close();
                 connection.Dispose();
             }
             ListView lvMensajes = FindViewById<ListView>(Resource.Id.lvMensajes);
             lvMensajes.Adapter = new RowMensaje(this, lstMensajes);
-            lvMensajes.ItemLongClick += (sender, e) =>
-            {
-                PopupMenu mnu = new PopupMenu(this, e.View);
-                mnu.MenuInflater.Inflate(Resource.Menu.PopMenu, mnu.Menu);
-                mnu.MenuItemClick += (s, arg) =>
-                {
-                    Toast.MakeText(this, lstMensajes[e.Position].mensaje, ToastLength.Short).Show();
-                };
-                //Toast.MakeText(this, lstMensajes[e.Position].mensaje, ToastLength.Short).Show();
-            };
+            lvMensajes.ItemLongClick += ShowMenu;
 
             Button btnMensaje = FindViewById<Button>(Resource.Id.btnUsuario);
             btnMensaje.Click += (sender, e) =>
@@ -101,6 +52,17 @@ namespace UsoSQLiteChat
                     _usuario = txtUsuario.Text;
                     Mostrarlogin(txtUsuario.Text);
                 }
+            };
+        }
+
+        private void ShowMenu(object sender, AdapterView.ItemLongClickEventArgs e)
+        {
+            ListView lvMensajes = FindViewById<ListView>(Resource.Id.lvMensajes);
+            PopupMenu mnu = new PopupMenu(this, lvMensajes);
+            mnu.MenuInflater.Inflate(Resource.Menu.PopMenu, mnu.Menu);
+            mnu.MenuItemClick += (s, arg) =>
+            {
+                Toast.MakeText(this, lstMensajes[e.Position].mensaje, ToastLength.Short).Show();
             };
         }
 
@@ -118,6 +80,7 @@ namespace UsoSQLiteChat
                 };
                 string jsonObj = JsonConvert.SerializeObject(dictionary, Formatting.Indented);
                 ClienteWebSocketsFuncionaTambien.enviarMensaje(jsonObj);
+                mensajeAEnviar.Text = "";
             };
 
             ClienteWebSocketsFuncionaTambien.myEventHandlerRecibirMensaje += (sender, e) =>
@@ -131,6 +94,8 @@ namespace UsoSQLiteChat
                 using (var connection = new SQLiteConnection(pathBaseDeDatos))
                 {
                     connection.Insert(obj);
+                    connection.Close();
+                    connection.Dispose();
                 }
                 lvMensajes.Adapter = new RowMensaje(this, lstMensajes);
             };
@@ -158,9 +123,9 @@ namespace UsoSQLiteChat
             Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
-        public bool OnCreateActionMode(Android.Support.V7.View.ActionMode mode, IMenu menu)
+        public override bool OnCreateOptionsMenu(IMenu menu)
         {
-            mode.MenuInflater.Inflate(Resource.Menu.opciones, menu);
+            MenuInflater.Inflate(Resource.Menu.opciones, menu);
             return true;
         }
         public override bool OnOptionsItemSelected(IMenuItem item)

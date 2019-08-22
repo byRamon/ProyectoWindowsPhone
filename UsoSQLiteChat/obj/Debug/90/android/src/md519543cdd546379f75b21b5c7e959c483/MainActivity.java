@@ -12,6 +12,7 @@ public class MainActivity
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"n_onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:GetOnRequestPermissionsResult_IarrayLjava_lang_String_arrayIHandler\n" +
+			"n_onCreateOptionsMenu:(Landroid/view/Menu;)Z:GetOnCreateOptionsMenu_Landroid_view_Menu_Handler\n" +
 			"n_onOptionsItemSelected:(Landroid/view/MenuItem;)Z:GetOnOptionsItemSelected_Landroid_view_MenuItem_Handler\n" +
 			"n_onStop:()V:GetOnStopHandler\n" +
 			"";
@@ -41,6 +42,14 @@ public class MainActivity
 	}
 
 	private native void n_onRequestPermissionsResult (int p0, java.lang.String[] p1, int[] p2);
+
+
+	public boolean onCreateOptionsMenu (android.view.Menu p0)
+	{
+		return n_onCreateOptionsMenu (p0);
+	}
+
+	private native boolean n_onCreateOptionsMenu (android.view.Menu p0);
 
 
 	public boolean onOptionsItemSelected (android.view.MenuItem p0)

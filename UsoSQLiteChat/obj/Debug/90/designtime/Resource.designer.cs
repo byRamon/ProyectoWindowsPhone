@@ -3456,6 +3456,9 @@ namespace UsoSQLiteChat
 			// aapt resource value: 0x7F0C0045
 			public const int mini = 2131492933;
 			
+			// aapt resource value: 0x7F020015
+			public const int mnuDetalles = 2130837525;
+			
 			// aapt resource value: 0x7F0C0046
 			public const int mtrl_child_content_container = 2131492934;
 			

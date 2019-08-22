@@ -42,49 +42,54 @@ namespace UsoSQLiteChat
         public override View GetView(int position, View convertView, ViewGroup parent)
         {
             Mensaje mensaje = _data[position];
-            if (convertView == null)
+            //if (convertView == null)
+            //{
+            var inflater = LayoutInflater.From(_context);
+            if (mensaje.recibido)
             {
-                var inflater = LayoutInflater.From(_context);
-                if (mensaje.recibido)
-                {
-                    convertView = inflater.Inflate(Resource.Layout.RowRecibido, parent, false);
-                }
-                else
-                {
-                    convertView = inflater.Inflate(Resource.Layout.RowEnviado, parent, false);
-                }
-            }
-            TextView txtUsuarioRecibido = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioRecibido);
-            TextView txtUsuarioEnviado = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioEnviado);
-            if (txtUsuarioRecibido != null)
-            {
+                convertView = inflater.Inflate(Resource.Layout.RowRecibido, parent, false);
+                TextView txtUsuario = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioRecibido);
                 TextView txtMensaje = convertView.FindViewById<TextView>(Resource.Id.tvMensajeRecibido);
-                if (!mensaje.recibido)
-                {
-                    convertView = LayoutInflater.From(_context).Inflate(Resource.Layout.RowEnviado, parent, false);
-                    txtUsuarioRecibido = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioEnviado);
-                    txtMensaje = convertView.FindViewById<TextView>(Resource.Id.tvMensajeEnviado);
-                }
-                txtUsuarioRecibido.Text = position > 0 && mensaje.usuario != _data[position - 1].usuario ? mensaje.usuario : "";
-                if(position == 0) txtUsuarioRecibido.Text = mensaje.usuario;
+                txtUsuario.Text = mensaje.usuario;
                 txtMensaje.Text = mensaje.mensaje;
             }
             else
             {
+                convertView = inflater.Inflate(Resource.Layout.RowEnviado, parent, false);
+                TextView txtUsuario = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioEnviado);
                 TextView txtMensaje = convertView.FindViewById<TextView>(Resource.Id.tvMensajeEnviado);
-                if (mensaje.recibido)
-                {
-                    convertView = LayoutInflater.From(_context).Inflate(Resource.Layout.RowRecibido, parent, false);
-                    txtUsuarioEnviado = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioRecibido);
-                    txtMensaje = convertView.FindViewById<TextView>(Resource.Id.tvMensajeRecibido);
-                }
-                txtUsuarioEnviado.Text = position > 0 && mensaje.usuario != _data[position - 1].usuario ? mensaje.usuario : "";
-                if (position == 0) txtUsuarioEnviado.Text = mensaje.usuario;
+                txtUsuario.Text = position == 0 || (position > 0 && mensaje.usuario != _data[position - 1].usuario) ? mensaje.usuario : "";
                 txtMensaje.Text = mensaje.mensaje;
             }
+            //}
+            //if (mensaje.recibido)
+            //{
+            //    TextView txtUsuario = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioRecibido);
+            //    if (txtUsuario == null)
+            //    {
+            //        var inflater = LayoutInflater.From(_context);
+            //        convertView = inflater.Inflate(Resource.Layout.RowRecibido, parent, false);
+            //    }
+            //    txtUsuario = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioRecibido);
+            //    TextView txtMensaje = convertView.FindViewById<TextView>(Resource.Id.tvMensajeRecibido);
+            //    txtUsuario.Text = mensaje.usuario;
+            //    txtMensaje.Text = mensaje.mensaje;
+            //}
+            //else
+            //{
+            //    TextView txtUsuario = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioEnviado);
+            //    if (txtUsuario == null)
+            //    {
+            //        var inflater = LayoutInflater.From(_context);
+            //        convertView = inflater.Inflate(Resource.Layout.RowEnviado, parent, false);
+            //    }
+            //    txtUsuario = convertView.FindViewById<TextView>(Resource.Id.tvUsuarioEnviado);
+            //    TextView txtMensaje = convertView.FindViewById<TextView>(Resource.Id.tvMensajeEnviado);
+            //    txtUsuario.Text = position == 0 || (position > 0 && mensaje.usuario != _data[position - 1].usuario) ? mensaje.usuario : "";
+            //    txtMensaje.Text = mensaje.mensaje;
+            //}
             convertView.ScrollY = convertView.Height;
             return convertView;
         }
-
     }
 }
