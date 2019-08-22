@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="100">    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:id="@+id/llUsuario">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Usuario: "
+            android:layout_weight="20"/>
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_weight="60"
+            android:id="@+id/txtUsuario"/>
+        <Button
+            android:text="Entrar"
+            android:layout_width="wrap_content"
+            android:layout_height="60dip"
+            android:layout_weight="20"
+            android:id="@+id/btnUsuario" />
+    </LinearLayout>
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="80"
+        android:id="@+id/lvMensajes"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="20"
+        android:id="@+id/llMensaje"
+        android:orientation="horizontal"
+        android:layout_gravity="right"
+        android:weightSum="100">
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="60dip"
+            android:layout_weight="95"
+            android:text=""
+            android:id="@+id/txtMensaje" />
+        <Button
+            android:text="Enviar"
+            android:layout_width="wrap_content"
+            android:layout_height="60dip"
+            android:layout_weight="5"
+            android:id="@+id/btnMensaje" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,78 @@
+.h1-titulo-principal{	
+	text-align: center;
+	color:blue;
+}
+
+.div-usuarios{
+	background-color:rgba(0,255,0,.3);
+	float:left;
+	width:25%;
+	border-top-left-radius: 30px;
+}
+
+.div-panel-mensajes{
+	background-color:rgba(255,0,0,.15);
+	float:left;
+	width:74%;
+	border-top-right-radius: 30px;
+}
+
+h2{
+	text-align:center;
+	color:rgba(0,0,255,.5);	
+}
+
+.div-usuario-conectado{
+	background-color:rgba(0,255,0,.6);
+	border-radius:15px;
+}
+
+.canvas-usuario-conectado{
+	width:20px;
+	height:20px;
+	/*background-color:red;*/
+	float:left;
+}
+
+.div-mensaje-recibido, .div-mensaje-recibido-par, .div-mensaje-enviado, .div-mensaje-enviado-par{
+	margin-bottom: 4px;
+}
+
+
+.div-mensaje-recibido{
+	background-color:rgba(255,0,0,.2);		
+	clear:right;	
+	float:left;	
+	
+	border-radius:15px;		
+}
+.div-mensaje-recibido-par{
+	background-color:rgba(255,0,0,.2);		
+	clear:left;	
+	float:left;	
+	
+	border-radius:15px;		
+}
+
+.div-mensaje-enviado{
+	background-color:rgba(0,255,0,.3);		
+	clear:left;			
+	float:right;	
+	border-radius:15px;
+}
+
+.div-mensaje-enviado-par{
+	background-color:rgba(0,255,0,.3);		
+	clear:right;			
+	float:right;	
+	border-radius:15px;
+}
+
+h3, .h4-nombre-usuario, .h3-mensaje-usuario{
+	margin-bottom:1px;
+	margin-top:0;
+}
+
+.h4-nombre-usuario{
+	color:rgba(0,0,255,.8);
+}

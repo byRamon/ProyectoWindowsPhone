@@ -1,0 +1,639 @@
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\WebSocketsXamarin.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\WebSocketsXamarin.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\com.companyname.WebSocketsXamarin.apk
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\com.companyname.WebSocketsXamarin-Signed.apk
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\Mono.Android.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\mscorlib.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Core.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Numerics.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Numerics.Vectors.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Xml.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Net.Http.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Runtime.Serialization.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.ServiceModel.Internals.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Data.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Transactions.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.IO.Compression.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.IO.Compression.FileSystem.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.ComponentModel.Composition.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Web.Services.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Xml.Linq.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\Mono.Security.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\Xamarin.Essentials.dll.mdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\build.props
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\adb.props
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\libraryimports.cache.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\resourcepaths.cache
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res.flag
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.csproj.CoreCompileInputs.cache
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\com.companyname.WebSocketsXamarin.apk
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\layout\activity_main.xml
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\colors.xml
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\ic_launcher_background.xml
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\strings.xml
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\styles.xml
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\R.cs.flag
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\R.txt
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\uploadflags.txt
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\resolvedassemblies.hash
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\WebSocketsXamarin.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Java.Interop.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Android.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\mscorlib.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Newtonsoft.Json.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Core.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Net.Http.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\netstandard.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Data.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Transactions.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Web.Services.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.Linq.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Security.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\WebSocketsXamarin.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Android.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\mscorlib.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Core.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.Vectors.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Net.Http.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Runtime.Serialization.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Data.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Transactions.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ComponentModel.Composition.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Web.Services.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.Linq.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Security.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\link.flag
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Java.Interop.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Android.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Android.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Security.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Security.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\mscorlib.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\mscorlib.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\netstandard.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Core.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Core.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Data.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Data.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Net.Http.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Net.Http.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Transactions.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Transactions.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Web.Services.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Web.Services.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.Linq.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\WebSocketsXamarin.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\WebSocketsXamarin.pdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\Seppuku.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\app\NotifyTimeZoneChanges.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\machine.config
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\mono.android.jar
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\static.flag
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\buildid.txt
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md57e52452b631d9a4325460ccb037402a6\MainActivity.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\transition\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\app\XamarinAndroidEnvironmentVariables.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\design\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\customtabs\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\MonoPackageManager.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\compat\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\packaged_resources
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\com\companyname\websocketsxamarin\R.java
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\classes.dex
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CompileToDalvik.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+G:\UDLSalle\Practicas DADM_Xamarin_UDLS_2019\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.csprojAssemblyReference.cache
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\WebSocketsXamarin.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\WebSocketsXamarin.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\com.companyname.WebSocketsXamarin.apk
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\com.companyname.WebSocketsXamarin-Signed.apk
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\Mono.Android.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\mscorlib.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Core.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Numerics.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Numerics.Vectors.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Xml.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Net.Http.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Runtime.Serialization.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Data.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Transactions.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.IO.Compression.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Web.Services.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\System.Xml.Linq.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\Mono.Security.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\bin\Debug\Xamarin.Essentials.dll.mdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\build.props
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\adb.props
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.csprojAssemblyReference.cache
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\libraryimports.cache.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\resourcepaths.cache
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res.flag
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.csproj.CoreCompileInputs.cache
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\WebSocketsXamarin.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\com.companyname.WebSocketsXamarin.apk
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\layout\activity_main.xml
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\colors.xml
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\ic_launcher_background.xml
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\strings.xml
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\values\styles.xml
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-hdpi\ic_launcher.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-hdpi\ic_launcher_round.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-mdpi\ic_launcher.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-mdpi\ic_launcher_round.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xhdpi\ic_launcher.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\R.cs.flag
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\R.txt
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\uploadflags.txt
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\resolvedassemblies.hash
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\WebSocketsXamarin.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Java.Interop.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Android.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\mscorlib.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Newtonsoft.Json.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Core.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.Vectors.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Essentials.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Net.Http.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Runtime.Serialization.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ServiceModel.Internals.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\netstandard.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Data.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Transactions.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ComponentModel.Composition.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Web.Services.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.Linq.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Security.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\WebSocketsXamarin.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\mscorlib.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Core.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Numerics.Vectors.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Net.Http.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Runtime.Serialization.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Data.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Transactions.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.ComponentModel.Composition.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Web.Services.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\System.Xml.Linq.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Mono.Security.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\link.flag
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\mscorlib.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\netstandard.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Core.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Core.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Data.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Data.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\WebSocketsXamarin.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\WebSocketsXamarin.pdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\Seppuku.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\app\NotifyTimeZoneChanges.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\machine.config
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\mono.android.jar
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\static.flag
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\buildid.txt
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BatteryBroadcastReceiver.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ConnectivityBroadcastReceiver.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\EnergySaverBroadcastReceiver.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\GyroscopeListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\Listener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\MagnetometerListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\OrientationSensorListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md57e52452b631d9a4325460ccb037402a6\MainActivity.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\design\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\android\app\XamarinAndroidEnvironmentVariables.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\mono\MonoPackageManager.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\packaged_resources
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\src\com\companyname\websocketsxamarin\R.java
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\bin\classes.dex
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CopyMdbFiles.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_CopyPdbFiles.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Proyectos\MTW_Projs\WindowsPhone\chat\WebSocketsXamarin\WebSocketsXamarin\obj\Debug\90\android\assets\System.Runtime.dll
